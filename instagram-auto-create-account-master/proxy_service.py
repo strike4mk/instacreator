@@ -1,0 +1,1 @@
+Config = { "proxy_server": "http://43.201.121.81:80" } 
